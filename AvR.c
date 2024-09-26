@@ -1,6 +1,3 @@
-/*
-Đây là bài toán tìm số chia cho nên sẽ dùng công thức: số chia = thương + số dư
-*/
 #include <stdio.h>
 
 #define MAX_N 500
